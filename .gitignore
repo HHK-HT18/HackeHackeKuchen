@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Config/DefaultEngine.ini
+Config/DefaultInput.ini
