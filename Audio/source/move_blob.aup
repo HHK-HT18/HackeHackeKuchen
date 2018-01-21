@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="move_blob_data" version="1.3.0" audacityversion="2.1.3" sel0="0.2451458333" sel1="0.2451458333" vpos="0" h="0.0000000000" zoom="917.8240740741" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="replaygain_track_gain" value="+3.92 dB"/>
+		<tag name="GENRE" value="Other"/>
+		<tag name="replaygain_track_peak" value="0.251029"/>
+	</tags>
+	<wavetrack name="362618__fxkid2__cute-tip-toe-4" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.584893" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="11767">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e5e.au" len="11767" min="-0.250126" max="0.251028" rms="0.083125"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="362618__fxkid2__cute-tip-toe-4" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.584893" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="11767">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e6a.au" len="11767" min="-0.250135" max="0.250979" rms="0.083123"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
